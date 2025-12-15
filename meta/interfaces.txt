@@ -36,3 +36,5 @@ std_msgs/msg/UInt8
 std_srvs/srv/Empty
 std_srvs/srv/SetBool
 std_srvs/srv/Trigger
+rosgraph_msgs/msg/Clock
+sensor_msgs/msg/Imu
